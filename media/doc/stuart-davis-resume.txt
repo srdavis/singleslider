@@ -1,0 +1,75 @@
+﻿Stuart R. Davis
+19 Cooper Street Apartment 1
+Boston, MA, 02113
+(978) 505-2531
+stuartrdavis@gmail.com
+www.stuartrdavis.com
+
+
+EDUCATION
+	Brandeis University, Waltham, MA
+Bachelor of Science in Computer Science, May 2011
+Bachelor of Arts in Economics, May 2011
+Minor in Business, May 2011
+
+
+	COURSEWORK
+	•  Theory of Computation                        •  Financial Accounting
+•  Data Compression and Processing                •  Econometrics and Statistical Analysis
+•  Operating Systems                                •  Financial Economics
+•  Programming Paradigms                        •  Industrial Organization
+•  Scientific Computing                        •  Micro and Macroeconomic Theory
+
+
+	SKILLS
+	Computer Languages:        Java, Python, Perl, and some Scheme, MATLAB, LabVIEW
+Web Development:                HTML/CSS and some PHP, SQL, Javascript
+Computer Software:                Windows, GNU/Linux, Stata, SPSS, Photoshop, and Illustrator
+
+
+	EXPERIENCE
+	Teaching Fellow        September 2012 to Present
+Harvard Extension School, Cambridge, MA        http://www.extension.harvard.edu/
+
+
+        •  Answered in class questions about Java and other programming languages
+        •  Explained complicated language concepts to first time Java students
+
+
+Test Engineering Intern        November 2011 to September 2012
+Google Inc., Cambridge, MA        http://www.itasoftware.com
+
+
+        •  Individually triaged test automation failures and authored new test cases in Java
+        •  Independently wrote and refactored parsers for airline messaging standards in Perl
+        •  Qualified and helped launch airline reservation system for company’s first customer
+        •  Identified critical design oversights to improve usability and system stability
+        •  Verified and smoke tested new features to seamlessly integrate with clients’ partners
+        •  Studied message standards and compiled commanding knowledge in under a week
+        •  Expert in airline messaging standards and Inter-Airline Through Check-in
+
+
+Web Designer and Developer        June 2009 to September 2011
+Stuart Davis Designs, Concord, MA        http://www.stuartrdavis.com
+
+
+        •  Developed and deployed websites using Javascript and PHP with Drupal
+        •  Performed web based graphic design while meeting deployment deadlines
+
+
+Advanced Programming Teaching Assistant        Jan. 2010 to May 2011
+Brandeis University, Waltham, MA        http://cs.brandeis.edu
+
+
+        •  Clarified object oriented programming and advanced control structures in Java
+        •  Explained data structures such as lists, trees, and graphs and their costs or benefits
+        •  Helped students understand and conceptualize recursion and searching algorithms
+
+
+Research and Development Intern        June 2010 to January 2010
+MicroE Systems, Bedford, MA        http://www.microesys.com
+
+
+        •  Designed and implemented quality assurance software for manufacturing
+        •  Developed data acquisition software for research and performance analysis
+        •  Performed data collection and stress tests with direct implications for clients
